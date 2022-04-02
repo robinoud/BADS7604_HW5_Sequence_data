@@ -81,6 +81,8 @@ Optimizer: Adam
 
 ## 7. Conclusion
 
+LSTM and GRU are outperformed RNN in both amplitude and frequency domains. Although the outstanding performance, all three models still need more data to train to make the model more robust due to the overfitting problem.
+
 ## End Credit
  This study is a part of **`Deep Learning course`**  (BADS7604), Businuss Analytics and Data Science, National Institute of Development Admistration (**`NIDA`**)
 
