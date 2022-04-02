@@ -53,3 +53,19 @@ From our research, there are 2 ways for collecting the song.
 ## 6. Discussion
 
 ## 7. Conclusion
+
+## End Credit
+ This study is a part of **`Deep Learning course`**  (BADS7604), Businuss Analytics and Data Science, National Institute of Development Admistration (**`NIDA`**)
+
+### _The Deep Sleeping Crew (Group6) Contribution - Uniform_
+**`16.67%`** 🍕 - **`6310422057`** Natdanai Thedwichienchai 
+
+**`16.67%`** 🍕 - **`6310422061`** Wuthipoom Kunaborimas 
+
+**`16.67%`** 🍕 - **`6310422063`** Nuj Lael 
+
+**`16.67%`** 🍕 - **`6310422064`** Krisna Pintong
+
+**`16.67%`** 🍕 - **`6310422065`** Songpol Bunyang
+
+**`16.67%`** 🍕 - **`6310422069`** Phawit Boonrat
