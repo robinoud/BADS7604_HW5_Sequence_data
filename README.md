@@ -73,6 +73,12 @@ Optimizer: Adam
 
 ## 6. Discussion
 
+•  The result from amplitude datasets couldn't make good progression. After the change of preprocessing method from amplitude to the frequency domain, the accuracy surprisingly improve. This indicates that domain expertise is very important in training machine learning since the team doesn’t have fundamental knowledge about sound.
+
+•  RNN model has less accuracy compared to LSTM and GRU which is obvious because of fewer parameters than the other two. LSTM and GRU is nearly equal in term of accuracy. But 3 of them have less test accuracy compared to train accuracy which means overfit.
+
+•  The training dataset which collects 2 versions for each music is still low. To make the model more robust for various kinds of input, more versions of music should be collected.
+
 ## 7. Conclusion
 
 ## End Credit
