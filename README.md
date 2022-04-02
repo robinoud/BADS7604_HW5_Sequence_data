@@ -46,6 +46,16 @@ From our research, there are 2 ways for collecting the song.
 
 ## 4. Training
 
+Train: 80% validation: 20%
+
+Epoch: 100
+
+Batch size:  100
+
+Loss: sparse_categorical_crossentropy
+
+Optimizer: Adam
+
 ## 5. Result
 **`Amplitude`** Input
 | Model | Train Accuracy  | Test Accuracy |
