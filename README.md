@@ -43,7 +43,7 @@ From our research, there are 2 ways for collecting the song.
 | 2. LSTM | 90.36% | 71.43% |
 | 3. GRU | 96.39% | 71.43% |
 
-**`Domain frequency`** Input
+**` frequency Domain`** Input
 | Model | Train Accuracy  | Test Accuracy |
 | ------ | :------: | :------: |
 | 1. RNN | 48.19% | 21.43% |
