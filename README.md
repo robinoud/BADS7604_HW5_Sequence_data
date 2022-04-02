@@ -33,12 +33,15 @@ From our research, there are 2 ways for collecting the song.
 
 ## 3. Network Architecture
 **`RNN`**
+
 <img src="image/RNN arche.png"> 
 
 **`LSTM`**
+
 <img src="image/LSTM arche.png"> 
 
 **`GRU`**
+
 <img src="image/GRU arche.png"> 
 
 ## 4. Training
