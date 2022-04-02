@@ -87,14 +87,14 @@ LSTM and GRU are outperformed RNN in both amplitude and frequency domains. Altho
  This study is a part of **`Deep Learning course`**  (BADS7604), Businuss Analytics and Data Science, National Institute of Development Admistration (**`NIDA`**)
 
 ### _The Deep Sleeping Crew (Group6) Contribution - Uniform_
-**`16.67%`** 🍕 - **`6310422057`** Natdanai Thedwichienchai 
+**`16.67%`** 🍕 - **`6310422057`** Natdanai Thedwichienchai Collect data and train GRU model on amplitude data.
 
-**`16.67%`** 🍕 - **`6310422061`** Wuthipoom Kunaborimas 
+**`16.67%`** 🍕 - **`6310422061`** Wuthipoom Kunaborimas Collect data and train RNN model on amplitude data.
 
-**`16.67%`** 🍕 - **`6310422063`** Nuj Lael 
+**`16.67%`** 🍕 - **`6310422063`** Nuj Lael Collect data and train RNN model on frequency domain data.
 
-**`16.67%`** 🍕 - **`6310422064`** Krisna Pintong
+**`16.67%`** 🍕 - **`6310422064`** Krisna Pintong Collect data and train LSTM model on frequency domain data.
 
-**`16.67%`** 🍕 - **`6310422065`** Songpol Bunyang
+**`16.67%`** 🍕 - **`6310422065`** Songpol Bunyang Collect data and train LSTM model on amplitude data.
 
-**`16.67%`** 🍕 - **`6310422069`** Phawit Boonrat
+**`16.67%`** 🍕 - **`6310422069`** Phawit Boonrat Collect data and train GRU model on frequency domain data.
