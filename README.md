@@ -32,6 +32,14 @@ From our research, there are 2 ways for collecting the song.
 2. **`Frequency domain`** - convert amplitude wave to domain frequency with technique **`Mel Frequency Cepstral Co-efficients`** which built in package **`librosa`**. In this study, we separate **`13 frequency sub-group`**. Then the data has been stored in a **`csv file format`** and **`labeled with the song name`** to train the model further.
 
 ## 3. Network Architecture
+**`RNN`**
+<img src="image/RNN arche.png"> 
+
+**`LSTM`**
+<img src="image/LSTM arche.png"> 
+
+**`GRU`**
+<img src="image/GRU arche.png"> 
 
 ## 4. Training
 
