@@ -4,7 +4,12 @@
 <img src="https://miro.medium.com/max/810/1*kRRiGuDIoRF9OAKBRA6gmg.jpeg"> 
 
 ## Highlights
-pending
+
+•  Music classification using amplitude and frequency domain as a dataset.
+
+•  In the amplitude dataset, RNN has outperformed both LSTM and GRU but test accuracy in all of them is still not good enough.
+
+• the  In frequency domain dataset, LSTM and GRU are outperformed RNN but still got overfit problem.
 
 ## 1. Introduction
 > Sounds are all around us, from birds chirping and waves lapping against a coastline to cars honking in traffic. But sometimes sounds are put together in purposeful ways to create a specific atmosphere or to express ideas or emotions. Such organized sounds are called **`"music"`**.
@@ -73,9 +78,9 @@ Optimizer: Adam
 
 ## 6. Discussion
 
-•  The result from amplitude datasets couldn't make good progression. After the change of preprocessing method from amplitude to the frequency domain, the accuracy surprisingly improve. This indicates that domain expertise is very important in training machine learning since the team doesn’t have fundamental knowledge about sound.
+•  Although RNN has better test accuracy (11.11%) than LSTM (9.36%) and GRU (8.49%), the result from all models in amplitude datasets couldn't make good progression. After the change of preprocessing method from amplitude to the frequency domain, the accuracy surprisingly improve. This indicates that domain expertise is very important in training machine learning since the team doesn’t have fundamental knowledge about sound.
 
-•  RNN model has less accuracy compared to LSTM and GRU which is obvious because of fewer parameters than the other two. LSTM and GRU is nearly equal in term of accuracy. But 3 of them have less test accuracy compared to train accuracy which means overfit.
+•  In the frequency domain dataset, the RNN model has less accuracy (42.86%) compared to LSTM and GRU which is obvious because of fewer parameters than the other two. LSTM and GRU are equal in terms of accuracy (74.43% and 74.43%). But 3 of them have less test accuracy compared to train accuracy which means overfit.
 
 •  The training dataset which collects 2 versions for each music is still low. To make the model more robust for various kinds of input, more versions of music should be collected.
 
