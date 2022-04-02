@@ -29,7 +29,7 @@ mp3 file downloaded from YouTube with 2 versions, the **`original`** and **`cove
 From our research, there are 2 ways for collecting the song.
 
 1. **`Amplitude`** - convert the **`song file`** to the Amplitude wave which has the **`sr(sampling rate) = 100/second`**. We set up the model to **`hear the song for 5 seconds and predict the song name`**. So 1 row of data has 500 features of amplitude at the time. Then the data has been stored in a **`csv file format`** and **`labeled with the song name`** to train the model further.
-2. **`Domain frequency`** - convert amplitude wave to domain frequency with technique **`Mel Frequency Cepstral Co-efficients`** which built in package **`librosa`**. In this study, we separate **`13 frequency sub-group`**. Then the data has been stored in a **`csv file format`** and **`labeled with the song name`** to train the model further.
+2. **`Frequency domain`** - convert amplitude wave to domain frequency with technique **`Mel Frequency Cepstral Co-efficients`** which built in package **`librosa`**. In this study, we separate **`13 frequency sub-group`**. Then the data has been stored in a **`csv file format`** and **`labeled with the song name`** to train the model further.
 
 ## 3. Network Architecture
 
@@ -43,7 +43,7 @@ From our research, there are 2 ways for collecting the song.
 | 2. LSTM | 90.36% | 71.43% |
 | 3. GRU | 96.39% | 71.43% |
 
-**` frequency Domain`** Input
+**` Frequency domain`** Input
 | Model | Train Accuracy  | Test Accuracy |
 | ------ | :------: | :------: |
 | 1. RNN | 48.19% | 21.43% |
