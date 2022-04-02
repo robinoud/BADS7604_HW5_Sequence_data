@@ -39,7 +39,7 @@ From our research, there are 2 ways for collecting the song.
 **`Amplitude`** Input
 | Model | Train Accuracy  | Test Accuracy |
 | ------ | :------: | :------: |
-| 1. RNN | 18.96% | 15.20% |
+| 1. RNN | 16.00% | 11.11% |
 | 2. LSTM | 25.90% | 9.36% |
 | 3. GRU | 19.00% | 8.49% |
 
