@@ -39,16 +39,16 @@ From our research, there are 2 ways for collecting the song.
 **`Amplitude`** Input
 | Model | Train Accuracy  | Test Accuracy |
 | ------ | :------: | :------: |
-| 1. RNN | 93.37% | 42.86% |
-| 2. LSTM | 90.36% | 71.43% |
-| 3. GRU | 96.39% | 71.43% |
+| 1. RNN | 18.96% | 15.20% |
+| 2. LSTM | 13.89% | 30.10% |
+| 3. GRU | 93.40% | 75.62% |
 
 **` Frequency domain`** Input
 | Model | Train Accuracy  | Test Accuracy |
 | ------ | :------: | :------: |
-| 1. RNN | 48.19% | 21.43% |
-| 2. LSTM | 96.90% | 76.10% |
-| 3. GRU | 92.70% | 69.00% |
+| 1. RNN | 93.37% | 42.86% |
+| 2. LSTM | 90.36% | 71.43% |
+| 3. GRU | 96.39% | 71.43% |
 
 ## 6. Discussion
 
